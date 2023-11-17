@@ -3,7 +3,7 @@
 
 
 ## DiTer
-* **DiTer: Diverse Terrain and Multi-Modal Dataset for Field Robot Navigation in Outdoor Environments**
+* **DiTer: Diverse Terrain and Multi-Modal and Multi-Session Dataset for Field Robot Navigation in Outdoor Environments**
 	* Submitted to IEEE Sensors Letter 2023
 
 ## Contact
