@@ -1,10 +1,14 @@
 ## News!
 * **After the review is complete, we plan to release the new version.**
+* **We accept in IEEE Sensor Letter!!**
 
 
 ## DiTer
 * **DiTer: Diverse Terrain and Multi-Modal Dataset for Field Robot Navigation in Outdoor Environments**
-	* Submitted to IEEE Sensors Letter 2023
+	* IEEE Sensors Letter 2023
+
+* **Sensor Configuration**
+<p align="center"><img src=fig/sensor_setup.png /></p>
 
 ## Contact
 * **Seokhwan Jeong (eric5709@inha.edu)**
