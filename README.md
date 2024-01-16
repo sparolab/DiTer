@@ -7,8 +7,19 @@
 * **DiTer: Diverse Terrain and Multi-Modal Dataset for Field Robot Navigation in Outdoor Environments**
 	* IEEE Sensors Letter 2023
 
-* **Sensor Configuration**
+## Sensor Configuration
 <p align="center"><img src=fig/sensor_setup.png /></p>
+
+## Example Sequence in HILL01-A
+<p align="center"><img src=fig/sensor.gif /></p>
+
+## Calibration
+<p align="center"><img src=fig/calibration.png /></p>
+
+## Trajectory and Map
+<p align="center"><img src=fig/trajectory.png /></p>
+
+<p align="center"><img src=fig/map.png /></p>
 
 ## Contact
 * **Seokhwan Jeong (eric5709@inha.edu)**
