@@ -23,7 +23,7 @@
 
 ## Calibration
 * Using the [camera-lidar calibration toolbox](https://github.com/acfr/cam_lidar_calibration), we calibrate camera-LiDAR and thermal-LiDAR.
-* Due to the opposite nature of heat and color characteristics, we proceed by inverting the thermal image.
+* For calibrating thermal camera and LiDAR, we proceed by inverting the thermal image due to the opposite nature of heat and color characteristics.
 <p align="center"><img src=fig/calibration.png /></p>
 
 ## Trajectory
