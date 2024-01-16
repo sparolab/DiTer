@@ -4,6 +4,11 @@
 	* We will provide the final citation once the paper is published.
 
 
+## Download
+* The dataset is provided on-demand, by following a [request link](https://forms.gle/v6ehRxSDsVq6xVa48). Please fill out a simple form to us, and you will get a automated response mail containing full download links.
+
+
+
 ## DiTer
 * **DiTer: Diverse Terrain and Multi-Modal Dataset for Field Robot Navigation in Outdoor Environments**
 	* Accepted in IEEE Sensors Letter 2023
