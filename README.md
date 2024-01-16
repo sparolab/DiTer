@@ -8,6 +8,7 @@
 	* IEEE Sensors Letter 2023
 
 ## Sensor Configuration
+* We setup the 
 <p align="center"><img src=fig/sensor_setup.png /></p>
 
 ## Example Sequence in HILL01-A
