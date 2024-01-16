@@ -21,10 +21,12 @@
 * Due to the opposite nature of heat and color characteristics, we proceed by inverting the thermal image.
 <p align="center"><img src=fig/calibration.png /></p>
 
-## Trajectory and Map
+## Trajectory
 * Utilizing the [FAST-LIO](https://github.com/hku-mars/FAST_LIO), we provide a reference trajectory. 
-	* Also, the resulting map can also be examined as follows
 <p align="center"><img src=fig/trajectory.png /></p>
+
+## Map
+* We construct a global map by accumulating pointclouds through the reference trajectory.
 <p align="center"><img src=fig/map.png /></p>
 
 ## Cite DiTer
