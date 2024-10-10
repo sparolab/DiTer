@@ -11,7 +11,7 @@
 
 ## DiTer
 * **DiTer: Diverse Terrain and Multi-Modal Dataset for Field Robot Navigation in Outdoor Environments**
-	* Accepted in IEEE Sensors Letter 2023
+	* Accepted in IEEE Sensors Letter 2024
 
 * **Sensor Configuration** 
 	* We configure the legged robot with various sensors offered in multi-session datasets.
